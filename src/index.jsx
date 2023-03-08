@@ -70,8 +70,8 @@ root.render(
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="https://round-bird-6191.on.fleek.co/explore" element={<Explore />} />
-            <Route path="/Create" element={<Create />} />
-            <Route path="/Profile" element={<Profile />} />
+            <Route path="https://round-bird-6191.on.fleek.co/Create" element={<Create />} />
+            <Route path="https://round-bird-6191.on.fleek.co/Profile" element={<Profile />} />
           </Routes>
         </Router>
       </RainbowKitProvider>
