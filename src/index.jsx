@@ -69,7 +69,7 @@ root.render(
         <Router>
           <Routes>
             <Route path="/" element={<Home />} />
-            <Route path="/Explore" element={<Explore />} />
+            <Route path="https://round-bird-6191.on.fleek.co/explore" element={<Explore />} />
             <Route path="/Create" element={<Create />} />
             <Route path="/Profile" element={<Profile />} />
           </Routes>
